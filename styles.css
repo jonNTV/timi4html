@@ -7,11 +7,27 @@
    - class selector
    - id selector */
 
-/* Box Model:
-   - content
-   - padding
-   - border
-   - margin */
+/* Colors:
+   - Hex
+   - RGB
+   - HSL
+*/
+
+/* Fonts /*
+
+/* Border /*
+
+/* Float /*
+
+/* Overflow:
+   - visible
+   - hidden
+   - clip
+   - scroll
+   - auto
+ /*
+
+
 
 /* Grunneiginleikar (properties):
    - color
@@ -19,6 +35,12 @@
    - font-family, font-size
    - width, height
    - margin, padding, border */
+
+   /* Box Model:
+   - content
+   - padding
+   - border
+   - margin */
 
 /* Display:
    - block
