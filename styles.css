@@ -1,0 +1,40 @@
+/* Hvað er CSS og hvernig það tengist HTML */
+
+/* Mismunandi leiðir til að tengja CSS: inline, internal, external */
+
+/* Selectors:
+   - element selector
+   - class selector
+   - id selector */
+
+/* Box Model:
+   - content
+   - padding
+   - border
+   - margin */
+
+/* Grunneiginleikar (properties):
+   - color
+   - background-color
+   - font-family, font-size
+   - width, height
+   - margin, padding, border */
+
+/* Display:
+   - block
+   - inline
+   - inline-block */
+
+/* Position:
+   - static
+   - relative
+   - absolute
+   - fixed */
+
+/* Flexbox grunnur:
+   - display: flex
+   - justify-content
+   - align-items */
+
+/* Responsive hugtök:
+   - media queries (breytast eftir skjástærð) */
