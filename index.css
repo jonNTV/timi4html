@@ -1,0 +1,31 @@
+/*
+    RGB - HEX - HSL
+*/
+
+body {
+    font-family: "Bitcount Prop Single Ink";
+}
+
+/*
+    SELECTORS:
+    - element = t.d p, body, a
+    - id = #
+    - class = .
+*/
+
+
+h1 {
+    color: #9dff0a;
+    border: 2px solid black;
+}
+
+#displayDiv {
+    background-color: cyan;
+    display: inline-block;
+}
+
+#inlineSpan {
+    background-color: green;
+    display: inline-block;
+}
+

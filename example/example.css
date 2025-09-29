@@ -63,6 +63,10 @@ a:hover, a:focus { color: var(--brand-strong); text-decoration: underline; }
   backdrop-filter: blur(8px);
 }
 
+#header {
+  color: red;
+}
+
 .header-inner {
   display: flex;
   align-items: center;
